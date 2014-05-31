@@ -1,10 +1,10 @@
 {
-  "name": "AlpacoSaga",
+  "name": "Pausegame",
   "version": "0.0.0",
-  "description": "AlpacoSaga",
+  "description": "Pausegame",
   "main": "app.js",
   "author": {
-    "name": "Otto",
+    "name": "Johan",
     "email": ""
   },
   "dependencies": {
