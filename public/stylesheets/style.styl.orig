@@ -1,0 +1,10 @@
+﻿body
+<<<<<<< HEAD
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif
+  margin 0px
+=======
+  padding: 50px
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif
+>>>>>>> staging
+a
+  color: #00B7FF
